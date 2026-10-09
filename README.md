@@ -19,7 +19,7 @@ Computer Science graduate (University of Nicosia, 2026) focused on backend and f
 |---|---|
 | [**Restaurant QR Ordering Platform**](https://github.com/cypriotCodder/Restaurant_app) | Built for Heaven Restaurant (~25–30 tables). QR ordering, staff tools, live updates (SSE), ESC/POS kitchen printing with delivery tracking and retries, automated tests and CI. |
 | [**MicroShop: Monolith vs Microservices**](https://github.com/cypriotCodder/Microservices-Project-FYP) | Final-year dissertation. Same e-commerce app in both architectures (API gateway, RabbitMQ, Redis, circuit breakers). Under 500 concurrent users, microservices held p95 ≈ 59 ms vs ≈ 2 s for the monolith; trade-offs analysed with k6, Grafana and Jaeger. |
-| [**Seed Engine**](https://github.com/cypriotCodder/SEED-ENGINE-REPO) | C++20 procedural 2D game engine (SDL2, OpenGL, Lua): chunk streaming, physics, checkpoints, and a visual editor with terrain tools, undo/redo and macOS export. Builds published in [seed-releases](https://github.com/cypriotCodder/seed-releases). |
+| [**Seed Engine**](https://github.com/cypriotCodder/SEED-Engine) | C++20 procedural 2D game engine (SDL2, OpenGL, Lua): chunk streaming, physics, checkpoints, and a visual editor with terrain tools, undo/redo and macOS export. Builds published in [seed-releases](https://github.com/cypriotCodder/seed-releases). |
 
 ## Private project (demo on request)
 
