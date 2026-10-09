@@ -23,7 +23,7 @@ Computer Science graduate (University of Nicosia, 2026) focused on backend and f
 
 ## Private project (demo on request)
 
-- **Municipal Super App([Kentimde](kentimde.org))**: Next.js + PostgreSQL platform for issue reporting, permits and inspections, with row-level-security multi-tenancy, 7 user roles, 4 languages and audit logs.
+- **Municipal Super App([Kentimde](https://kentimde.org))**: Next.js + PostgreSQL platform for issue reporting, permits and inspections, with row-level-security multi-tenancy, 7 user roles, 4 languages and audit logs.
 
 ## Other work
 
