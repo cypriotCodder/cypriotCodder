@@ -3,7 +3,7 @@
 Computer Science graduate (University of Nicosia, 2026) focused on backend and full-stack engineering. I build APIs, multi-tenant data-driven applications and real-time workflows, with interests in distributed systems, performance and game-engine programming.
 
 📍 Cyprus · Open to backend / full-stack roles (Cyprus or remote)
-🔗 [LinkedIn](https://linkedin.com/in/nedim-huray) · ✉️ huraynedim@icloud.com
+🔗 nedimhuray.com · [LinkedIn](https://linkedin.com/in/nedim-huray) · ✉️ huraynedim@icloud.com
 
 ## Tech
 
