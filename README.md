@@ -1,4 +1,4 @@
-# Hi, I'm Nedim Hüray 👋
+# Hi, I'm [Nedim Hüray](https://nedimhuray.com) 👋
 
 Computer Science graduate (University of Nicosia, 2026) focused on backend and full-stack engineering. I build APIs, multi-tenant data-driven applications and real-time workflows, with interests in distributed systems, performance and game-engine programming.
 
