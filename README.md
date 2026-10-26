@@ -1,31 +1,47 @@
-# Hi, I'm [Nedim Hüray](https://nedimhuray.com) 👋
+# Hi, I'm [Nedim Hüray](https://nedimhuray.com)
 
-Computer Science graduate (University of Nicosia, 2026) focused on backend and full-stack engineering. I build APIs, multi-tenant data-driven applications and real-time workflows, with interests in distributed systems, performance and game-engine programming.
+**Backend & full-stack developer building business software, distributed systems, and developer tools.**
 
-📍 Cyprus · Open to backend / full-stack roles (Cyprus or remote)
-🔗 [nedimhuray.com](https://nedimhuray.com) · ✉️ huraynedim@icloud.com
+Computer Science graduate from the University of Nicosia (2026), based in Cyprus. I build data-driven applications with a focus on reliable workflows, clear APIs, and measurable performance.
 
-## Tech
+[Portfolio](https://nedimhuray.com) · [Email](mailto:huraynedim@icloud.com)  
+Open to backend and full-stack roles in Cyprus or remotely.
 
-**Backend:** TypeScript, Node.js, Python, FastAPI, REST APIs
-**Frontend:** React, Next.js
-**Data:** PostgreSQL, MongoDB, Prisma, Redis
-**Infra & tooling:** Docker, RabbitMQ, GitHub Actions, k6, Grafana, Jaeger
-**Systems:** C++20, SDL2, OpenGL, Lua
+## Selected work
 
-## Featured projects
+### Restaurant QR Ordering Platform
+**Commercial product · Private source**
 
-| Project | Highlights |
-|---|---|
-| [**Restaurant QR Ordering Platform**](https://github.com/cypriotCodder/Restaurant_app) | Built for Heaven Restaurant (~25–30 tables). QR ordering, staff tools, live updates (SSE), ESC/POS kitchen printing with delivery tracking and retries, automated tests and CI. |
-| [**MicroShop: Monolith vs Microservices**](https://github.com/cypriotCodder/Microservices-Project-FYP) | Final-year dissertation. Same e-commerce app in both architectures (API gateway, RabbitMQ, Redis, circuit breakers). Under 500 concurrent users, microservices held p95 ≈ 59 ms vs ≈ 2 s for the monolith; trade-offs analysed with k6, Grafana and Jaeger. |
-| [**Seed Engine**](https://github.com/cypriotCodder/SEED-Engine) | C++20 procedural 2D game engine (SDL2, OpenGL, Lua): chunk streaming, physics, checkpoints, and a visual editor with terrain tools, undo/redo and macOS export. Builds published in [seed-releases](https://github.com/cypriotCodder/seed-releases). |
+A restaurant ordering platform connecting QR-based customer orders with staff workflows and kitchen printing. Built for Heaven Restaurant, with live order updates, ESC/POS printer integration, delivery tracking and retries, automated tests, and CI.
 
-## Private project (demo on request)
+I'm developing the platform for commercial use. For product enquiries or a demo, [get in touch](mailto:huraynedim@icloud.com?subject=Restaurant%20platform%20enquiry).
 
-- **Municipal Super App([Kentimde](https://kentimde.org))**: Next.js + PostgreSQL platform for issue reporting, permits and inspections, with row-level-security multi-tenancy, 7 user roles, 4 languages and audit logs.
+### [MicroShop — Monolith vs Microservices](https://github.com/cypriotCodder/Microservices-Project-FYP)
+**Backend architecture · Performance research**
 
-## Other work
+My final-year dissertation implements the same e-commerce application as a Node.js monolith and an event-driven microservices system. It explores latency, throughput, and resilience through load testing, fault injection, and message-queue analysis.
 
-- [**Asfalya**](https://github.com/cypriotCodder/Asfalya): insurance management and customer communication prototype (FastAPI, Next.js, PostgreSQL).
-- [**PhysioRegistry**](https://github.com/cypriotCodder/PhysioRegistry-App): physiotherapy clinic records desktop app (Electron, React, TypeScript).
+API gateway, RabbitMQ, Redis, PostgreSQL, MongoDB, and Docker, with k6 benchmarks and Grafana/Jaeger observability. The repository includes architecture diagrams, saved measurements, and analysis of the trade-offs.
+
+### [Seed Engine](https://github.com/cypriotCodder/SEED-Engine)
+**C++20 · Game engine & visual editor**
+
+A procedural 2D game engine built with SDL2, OpenGL, and Lua. Features include chunk streaming, destructible building physics, crash-safe checkpoints, and a visual editor with terrain tools, undo/redo, and macOS app export.
+
+[Source & documentation](https://github.com/cypriotCodder/SEED-Engine) · [Releases](https://github.com/cypriotCodder/seed-releases)
+
+## More projects
+
+- **[Kentimde](https://kentimde.org)** — Municipal platform for issue reporting, permits, and inspections. Next.js and PostgreSQL, with tenant isolation, role-based access, multilingual workflows, and audit logs. Private source; demo on request.
+- **[Asfalya](https://github.com/cypriotCodder/Asfalya)** — Insurance management and customer communication prototype using FastAPI, Next.js, and PostgreSQL.
+- **[PhysioRegistry](https://github.com/cypriotCodder/PhysioRegistry-App)** — Physiotherapy clinic records desktop application built with Electron, React, and TypeScript.
+
+## Technologies
+
+| Area | Tools |
+| :--- | :--- |
+| Backend | TypeScript, Node.js, Python, FastAPI, REST APIs |
+| Frontend | React, Next.js |
+| Data & messaging | PostgreSQL, MongoDB, Prisma, Redis, RabbitMQ |
+| Delivery & observability | Docker, GitHub Actions, k6, Grafana, Jaeger |
+| Systems & graphics | C++20, SDL2, OpenGL, Lua |
