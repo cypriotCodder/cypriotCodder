@@ -9,12 +9,14 @@ Open to backend and full-stack roles in Cyprus or remotely.
 
 ## Selected work
 
-### Restaurant QR Ordering Platform
-**Commercial product · Private source**
+### [Masadan — Restaurant QR Ordering](https://masadanorder.com)
+**Commercial product · Private application source · Public marketing website**
 
-A restaurant ordering platform connecting QR-based customer orders with staff workflows and kitchen printing. Built for Heaven Restaurant, with live order updates, ESC/POS printer integration, delivery tracking and retries, automated tests, and CI.
+A QR table-ordering platform for restaurants and cafés in North Cyprus, connecting customer orders with staff workflows and kitchen printing. Built for Heaven Restaurant, with live order updates, ESC/POS printer integration, delivery tracking and retries, automated tests, and CI.
 
-I'm developing the platform for commercial use. For product enquiries or a demo, [get in touch](mailto:huraynedim@icloud.com?subject=Restaurant%20platform%20enquiry).
+The public marketing website supports Turkish and English; the ordering application's source remains private.
+
+[Product website](https://masadanorder.com) · [Website source](https://github.com/cypriotCodder/masadanorder-web) · [Enquiries & demos](mailto:huraynedim@icloud.com?subject=Masadan%20enquiry)
 
 ### [MicroShop — Monolith vs Microservices](https://github.com/cypriotCodder/Microservices-Project-FYP)
 **Backend architecture · Performance research**
