@@ -1,49 +1,53 @@
-# Hi, I'm [Nedim Hüray](https://nedimhuray.com)
+# Nedim Hüray
 
-**Backend & full-stack developer building business software, distributed systems, and developer tools.**
+**Backend & full-stack developer · Cyprus**
 
-Computer Science graduate from the University of Nicosia (2026), based in Cyprus. I build data-driven applications with a focus on reliable workflows, clear APIs, and measurable performance.
+I build business applications with TypeScript and Python, and explore systems programming through C++. My work spans restaurant ordering, multi-tenant platforms, backend performance research, and a 2D game engine.
 
-[Portfolio](https://nedimhuray.com) · [Email](mailto:huraynedim@icloud.com)  
-Open to backend and full-stack roles in Cyprus or remotely.
+Computer Science graduate, University of Nicosia (2026). Open to backend and full-stack roles in Cyprus or remotely.
 
-## Selected work
+[Portfolio](https://nedimhuray.com) · [Email](mailto:huraynedim@icloud.com)
 
-### [Masadan — Restaurant QR Ordering](https://masadanorder.com)
-**Commercial product · Private application source · Public marketing website**
+## Selected projects
 
-A QR table-ordering platform for restaurants and cafés in North Cyprus, connecting customer orders with staff workflows and kitchen printing. Built for Heaven Restaurant, with live order updates, ESC/POS printer integration, delivery tracking and retries, automated tests, and CI.
+### [Masadan](https://masadanorder.com) · Restaurant ordering
 
-The public marketing website supports Turkish and English; the ordering application's source remains private.
+QR table ordering for restaurants and cafés, connecting customers, staff, and kitchen printers. Built for Heaven Restaurant and being developed for commercial use.
 
-[Product website](https://masadanorder.com) · [Website source](https://github.com/cypriotCodder/masadanorder-web) · [Enquiries & demos](mailto:huraynedim@icloud.com?subject=Masadan%20enquiry)
+- **Workflow reliability:** live order updates, ESC/POS printing, delivery tracking and retries.
+- **Product delivery:** customer and staff interfaces, automated tests, CI, and a Turkish/English marketing website.
 
-### [MicroShop — Monolith vs Microservices](https://github.com/cypriotCodder/Microservices-Project-FYP)
-**Backend architecture · Performance research**
+[Product website](https://masadanorder.com) · [Marketing website source](https://github.com/cypriotCodder/masadanorder-web) · [Request a demo](mailto:huraynedim@icloud.com?subject=Masadan%20demo)  
+*Ordering application source is private.*
 
-My final-year dissertation implements the same e-commerce application as a Node.js monolith and an event-driven microservices system. It explores latency, throughput, and resilience through load testing, fault injection, and message-queue analysis.
+### [MicroShop](https://github.com/cypriotCodder/Microservices-Project-FYP) · Backend architecture research
 
-API gateway, RabbitMQ, Redis, PostgreSQL, MongoDB, and Docker, with k6 benchmarks and Grafana/Jaeger observability. The repository includes architecture diagrams, saved measurements, and analysis of the trade-offs.
+My final-year dissertation compares the same e-commerce application implemented as a Node.js monolith and an event-driven microservices system.
 
-### [Seed Engine](https://github.com/cypriotCodder/SEED-Engine)
-**C++20 · Game engine & visual editor**
+- **Architecture:** API gateway, RabbitMQ messaging, Redis caching, PostgreSQL, and MongoDB.
+- **Measurement:** k6 load tests, fault injection, Grafana dashboards, and Jaeger traces to examine latency, throughput, and resilience.
 
-A procedural 2D game engine built with SDL2, OpenGL, and Lua. Features include chunk streaming, destructible building physics, crash-safe checkpoints, and a visual editor with terrain tools, undo/redo, and macOS app export.
+[Code, architecture & recorded results](https://github.com/cypriotCodder/Microservices-Project-FYP)
 
-[Source & documentation](https://github.com/cypriotCodder/SEED-Engine) · [Releases](https://github.com/cypriotCodder/seed-releases)
+### [Seed Engine](https://github.com/cypriotCodder/SEED-Engine) · C++ game engine & editor
 
-## More projects
+A procedural 2D engine built with C++20, SDL2, OpenGL, and Lua.
 
-- **[Kentimde](https://kentimde.org)** — Municipal platform for issue reporting, permits, and inspections. Next.js and PostgreSQL, with tenant isolation, role-based access, multilingual workflows, and audit logs. Private source; demo on request.
-- **[Asfalya](https://github.com/cypriotCodder/Asfalya)** — Insurance management and customer communication prototype using FastAPI, Next.js, and PostgreSQL.
-- **[PhysioRegistry](https://github.com/cypriotCodder/PhysioRegistry-App)** — Physiotherapy clinic records desktop application built with Electron, React, and TypeScript.
+- **Systems programming:** chunk streaming, destructible building physics, and crash-safe checkpoints.
+- **Developer tools:** visual scene and terrain editing, undo/redo, Lua scripting, and macOS app export.
 
-## Technologies
+[Code & documentation](https://github.com/cypriotCodder/SEED-Engine) · [Releases](https://github.com/cypriotCodder/seed-releases)
 
-| Area | Tools |
-| :--- | :--- |
-| Backend | TypeScript, Node.js, Python, FastAPI, REST APIs |
-| Frontend | React, Next.js |
-| Data & messaging | PostgreSQL, MongoDB, Prisma, Redis, RabbitMQ |
-| Delivery & observability | Docker, GitHub Actions, k6, Grafana, Jaeger |
-| Systems & graphics | C++20, SDL2, OpenGL, Lua |
+## Other work
+
+- **[Kentimde](https://kentimde.org)** — Municipal workflows with Next.js and PostgreSQL: tenant isolation, role-based access, multilingual interfaces, and audit logs. Private source; demo on request.
+- **[Asfalya](https://github.com/cypriotCodder/Asfalya)** — Insurance management prototype built with FastAPI, Next.js, and PostgreSQL.
+- **[PhysioRegistry](https://github.com/cypriotCodder/PhysioRegistry-App)** — Clinic records desktop application using Electron, React, and TypeScript.
+
+## Technologies used in my projects
+
+**Languages:** TypeScript, Python, C++20, Lua  
+**Applications:** Node.js, FastAPI, React, Next.js, Electron  
+**Data & messaging:** PostgreSQL, MongoDB, Prisma, Redis, RabbitMQ  
+**Testing & delivery:** Docker, GitHub Actions, k6, Grafana, Jaeger  
+**Graphics:** SDL2, OpenGL
